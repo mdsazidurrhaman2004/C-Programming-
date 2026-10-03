@@ -1,0 +1,1 @@
+This section contains basic C programming practice programs covering fundamental concepts such as input/output, arithmetic operations, variables, calculations, and basic problem solving.
